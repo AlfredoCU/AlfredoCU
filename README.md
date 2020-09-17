@@ -1,4 +1,4 @@
-![I'm Alfredo](https://github.com/AlfredoCU/AlfredoCU/blob/master/img/IamAlfredo.gif)
+![I'm Alfredo](https://github.com/AlfredoCU/AlfredoCU/blob/master/img/Alfredo.gif)
 
 <!--
 **AlfredoCU/AlfredoCU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
