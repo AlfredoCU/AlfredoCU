@@ -1,7 +1,7 @@
 ![I'm Alfredo](https://github.com/AlfredoCU/AlfredoCU/blob/master/img/Alfredo-2.gif)
 
 <p align='center'>
-  <a href="https://dev.to/alfredocu" target="_blank"><img height="40" src="https://github.com/AlfredoCU/AlfredoCU/blob/master/img/dev.svg"></a>&nbsp;&nbsp;
+  <a href="https://dev.to/alfredocu"><img height="40" src="https://github.com/AlfredoCU/AlfredoCU/blob/master/img/dev.svg"></a>&nbsp;&nbsp;
   <a href="https://mx.linkedin.com/in/alfredo-cu"><img height="40" src="https://github.com/AlfredoCU/AlfredoCU/blob/master/img/linkedin.svg"></a>&nbsp;&nbsp;
   <a href="https://codepen.io/alfredocu"><img height="40" src="https://github.com/AlfredoCU/AlfredoCU/blob/master/img/codepen.svg"></a>
 </p>
