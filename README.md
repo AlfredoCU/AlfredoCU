@@ -28,4 +28,5 @@
 He estado rodeado de la tecnología de desde pequeño, me gusta mantenerme informado de los avances tecnológicos, aprender y experimentar con nuevas tecnologías, mantener una mente abierta y adaptarme al cambio. 😁 </p>
 
 </br>
+
 ---
