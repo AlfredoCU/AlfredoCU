@@ -1,18 +1,22 @@
 ![I'm Alfredo](https://github.com/AlfredoCU/AlfredoCU/blob/master/img/Alfredo-2.gif)
 
-<!--
-**AlfredoCU/AlfredoCU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# < Hola soy Alfredo />
 
-### Hi there 👋
+<a href="https://github.com/AlfredoCU?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AlfredoCU&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AlfredoCU GitHub Stats" />
+</a>
 
-Here are some ideas to get you started:
+<p align="justify">Soy Desarrollador de Front End, actualmente dedico mi tiempo de desarrollar aplicaciones web, disfrutando del aprendizaje, dando lo mejor de mi para plasmar, empatizar, definir, idear, prototipar, probar e implementar, pensar en un diseño personalizado que destaque del resto, creando identidad, valores y todo lo que representa ese producto o idea. 💞<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<a href="https://github.com/AlfredoCU?tab=repositories">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoCU&hide=asp,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<p align="justify">👨🏻‍💻 Trabajo en amenidades.com, publico mi experiencia y conocimientos en DEV Community, creo prototipos y expando mi imaginación de CodePen, comparto código en GitHub y GitLab, me gusta hacer retos en Frontend Mentor y realizó retos en HackerRank y FreeCodeCamp.</p>
+
+<p align="justify">
+He estado rodeado de la tecnología de desde pequeño, me gusta mantenerme informado de los avances tecnológicos, aprender y experimentar con nuevas tecnologías, mantener una mente abierta y adaptarme al cambio. 😁 </p>
+
+---
