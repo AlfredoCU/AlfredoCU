@@ -22,7 +22,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoCU&hide=asp,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<p align="justify">👨🏻‍💻 Trabajo en <a href="https://amenidades.com/">amenidades.com</a>, publico mi experiencia y conocimientos en <a href="https://dev.to/alfredocu">DEV Community</a>, creo prototipos y expando mi imaginación de <a href="https://codepen.io/alfredocu">CodePen</a>, comparto código en GitHub y GitLab, me gusta hacer retos en <a href="https://www.frontendmentor.io/profile/AlfredoCU">Frontend Mentor</a> y realizó retos en HackerRank y FreeCodeCamp.</p>
+<p align="justify">👨🏻‍💻 Trabajo en <a href="https://amenidades.com/">amenidades.com</a>, publico mi experiencia y conocimientos en <a href="https://dev.to/alfredocu">DEV Community</a>, creo prototipos y expando mi imaginación de <a href="https://codepen.io/alfredocu">CodePen</a>, comparto código en GitHub y <a href="https://gitlab.com/Alfredo_CU7557">GitLab</a>, me gusta hacer retos en <a href="https://www.frontendmentor.io/profile/AlfredoCU">Frontend Mentor</a> y realizó retos en HackerRank y FreeCodeCamp.</p>
 
 <p align="justify">
 He estado rodeado de la tecnología de desde pequeño, me gusta mantenerme informado de los avances tecnológicos, aprender y experimentar con nuevas tecnologías, mantener una mente abierta y adaptarme al cambio. 😁 </p>
