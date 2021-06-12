@@ -3,7 +3,10 @@
 <p align='center'>
   <a href="https://dev.to/alfredocu"><img height="40" src="https://github.com/AlfredoCU/AlfredoCU/blob/master/img/dev.svg"></a>&nbsp;&nbsp;
   <a href="https://mx.linkedin.com/in/alfredo-cu"><img height="40" src="https://github.com/AlfredoCU/AlfredoCU/blob/master/img/linkedin.svg"></a>&nbsp;&nbsp;
-  <a href="https://codepen.io/alfredocu"><img height="40" src="https://github.com/AlfredoCU/AlfredoCU/blob/master/img/codepen.svg"></a>
+  <a href="https://codepen.io/alfredocu"><img height="40" src="https://github.com/AlfredoCU/AlfredoCU/blob/master/img/codepen.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.freecodecamp.org/alfredocu117"><img height="40" src="https://github.com/AlfredoCU/AlfredoCU/blob/master/img/free-code-camp.svg"></a>&nbsp;&nbsp;
+  <a href="https://gitlab.com/Alfredo_CU7557"><img height="40" src="https://github.com/AlfredoCU/AlfredoCU/blob/master/img/gitlab.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/alfredo11cu"><img height="40" src="https://github.com/AlfredoCU/AlfredoCU/blob/master/img/hackerrank.svg"></a>
 </p>
 
 # < Hola soy Alfredo />
