@@ -17,10 +17,10 @@
 
 <p align="justify">Soy Desarrollador de Front End, actualmente dedico mi tiempo de desarrollar aplicaciones web, disfrutando del aprendizaje, dando lo mejor de mi para plasmar, empatizar, definir, idear, prototipar, probar e implementar, pensar en un diseño personalizado que destaque del resto, creando identidad, valores y todo lo que representa ese producto o idea. 💞<p>
 
-</br>
 
 ---
 
+</br>
 </br>
 
 <a href="https://github.com/AlfredoCU?tab=repositories">
@@ -31,7 +31,5 @@
 
 <p align="justify">
 He estado rodeado de la tecnología de desde pequeño, me gusta mantenerme informado de los avances tecnológicos, aprender y experimentar con nuevas tecnologías, mantener una mente abierta y adaptarme al cambio. 😁 </p>
-
-</br>
 
 ---
